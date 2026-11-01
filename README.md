@@ -25,6 +25,6 @@ python hello.py
 - [x] `git init` 初始化仓库
 - [x] `git add` 暂存文件
 - [x] `git commit` 提交
-- [ ] `git push` 推送到 GitHub
+- [x] `git push` 推送到 GitHub
 - [ ] 建分支、合并
 - [ ] 提一个 Pull Request
