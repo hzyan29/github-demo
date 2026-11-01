@@ -27,5 +27,5 @@ python hello.py 小明     # 问候指定的人
 - [x] `git add` 暂存文件
 - [x] `git commit` 提交
 - [x] `git push` 推送到 GitHub
-- [ ] 建分支、合并
-- [ ] 提一个 Pull Request
+- [x] 建分支、合并
+- [x] 提一个 Pull Request
