@@ -11,7 +11,8 @@
 需要 Python 3.8 或更高版本。
 
 ```bash
-python hello.py
+python hello.py          # 问候世界
+python hello.py 小明     # 问候指定的人
 ```
 
 输出：
